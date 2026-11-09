@@ -5,3 +5,6 @@
 - [ms1/](./ms1/README.md) – Microservice 1: Ortschaften
 - [ms2/](./ms2/README.md) – Microservice 2: Immobilien
 - [infra/](./infra/README.md) – Deployment & Infrastruktur
+
+## Theorie
+- [Übersicht und Aufteilung](./team/theorie/README.md)
