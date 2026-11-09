@@ -1,6 +1,12 @@
-[TOC]
+# B2 Prozesse und Zusammenarbeit
 
-# B2: Prozesse und Zusammenarbeit
+- **Autor:** Cedi, Marvin
+- **Reviewer:** Andrin
+- **Status:** In Bearbeitung
+
+---
+
+[TOC]
 
 Dieses Dokument beantwortet die Leitfragen B2-K01 bis B2-K07. Beim Fall Pixelwerk verwende ich nur die Angaben aus dem Auftrag. Wo der Fall eine Geschäftsregel offenlässt, ist sie als Klärungspunkt markiert.
 
@@ -182,3 +188,5 @@ Die Frist, der Rückerstattungsbetrag und der Umgang mit fehlgeschlagenen Zahlun
 12. [DORA: 2024 State of DevOps Report — The four keys](https://dora.dev/research/2024/dora-report/2024-dora-accelerate-state-of-devops-report.pdf)
 13. [DORA: How to empower software delivery teams](https://dora.dev/guides/how-to-empower-software-delivery-teams/)
 14. [Atlassian Support: Add content to describe a work item](https://support.atlassian.com/jira-software-cloud/docs/add-files-images-and-other-content-to-describe-an-issue/)
+
+- **KI-Deklaration:** Zur Strukturierung und Formulierung wurden KI-Tools gemäss Vorgaben verwendet. Inhalte wurden fachlich geprüft.

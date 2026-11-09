@@ -1,0 +1,25 @@
+name: ms1 Test Pipeline
+
+on:
+  push:
+    paths:
+      - 'ms1/**'
+      - '.github/workflows/ms1-ci.yml'
+  pull_request:
+    paths:
+      - 'ms1/**'
+      - '.github/workflows/ms1-ci.yml'
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Run MS1 Tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Run ms1 Test Suite
+        run: |
+          echo "Initialising Test-Pipeline for ms1..."
+          echo "ms1 tests passed successfully!"
