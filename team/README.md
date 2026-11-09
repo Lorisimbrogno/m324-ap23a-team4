@@ -19,7 +19,6 @@
 ## System
 | | Link |
 |---|---|
-| Zeitlogging | [Zeitlogging-Tabelle]() |
 | Board | (ab Phase A) |
 | Repositories | [ms1](../ms1) · [ms2](../ms2) · [infra](../infra) |
 | Produktion | (ab Phase A) |
