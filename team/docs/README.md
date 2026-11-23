@@ -16,5 +16,7 @@ Dieser Ordner enthält alle verbindlichen Arbeits- und Prozessdokumente von Team
    *Kanban-Board:* Vorbereitete Karten und Tickets für das GitHub Project Board (P2 Applikation v1.0 & P3 CI).
 6. **[meetings/2026-11-23.md](./meetings/2026-11-23.md)**  
    *Protokoll:* Schultag 23.11.2026 (Check-In, Schnittstellen-Absprache & Tagesplanung).
-7. **[retrospektiven.md](./retrospektiven.md) [DEPRECATED]**  
+7. **[api-spezifikation.md](./api-spezifikation.md)**  
+   *Schnittstellen & Tests:* Vollständige API-Spezifikation für `ms1` und `ms2` (Healthcheck, US1, US2, US3) inkl. Database-per-Service Regeln und Testpyramiden-Standard (Ticket #11).
+8. **[retrospektiven.md](./retrospektiven.md) [DEPRECATED]**  
    *Reflexion:* Veraltet – Da kein Phasenwechsel mehr stattfindet, werden Retrospektiven kontinuierlich wöchentlich in den Meeting-Protokollen ([meeting-vorlage.md](./meeting-vorlage.md)) geführt.
